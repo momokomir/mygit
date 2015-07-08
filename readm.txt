@@ -1,5 +1,2 @@
-ha
-ye
-haha
-4
-55555
+git教程
+https://github.com/momokomir/mygit/edit/master/readm.txt
